@@ -1,0 +1,28 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "A demo app built with Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobsamuel/hello-electron.git"
+  },
+  "keywords": [
+    "demo",
+    "electron",
+    "app"
+  ],
+  "author": "Jobsamuel Núñez <jobsamuel.nunez@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobsamuel/hello-electron/issues"
+  },
+  "homepage": "https://github.com/jobsamuel/hello-electron#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.33.6"
+  }
+}
