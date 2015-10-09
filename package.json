@@ -22,7 +22,7 @@
     "url": "https://github.com/jobsamuel/hello-electron/issues"
   },
   "homepage": "https://github.com/jobsamuel/hello-electron#readme",
-  "devDependencies": {
+  "dependencies": {
     "electron-prebuilt": "^0.33.6"
   }
 }
