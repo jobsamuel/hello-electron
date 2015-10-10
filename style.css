@@ -1,0 +1,24 @@
+body { 
+	font-family: 'Open Sans', sans-serif; 
+	color: #606060; 
+	background-color: #fafafa;
+	text-align: center;
+    margin-top: 10%;
+	padding: 2em;
+}
+h1 { 
+	font-size: 3em; 
+}
+.particles {
+    z-index: -100;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.credits {
+    font-size: 0.9em;
+	color: #c9c9c9;
+}
